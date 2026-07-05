@@ -1,0 +1,12 @@
+﻿hospital_id,hospital,cidade,estado,regiao,quantidade_leitos,capacidade_dia,diretor,data_inauguracao
+1,Hospital Central,brasília,DF,Centro-Oeste,250.0,400,Carlos Mendes,2010-03-15
+2,Hospital Vida ,Goiânia,GO,Centro-Oeste,180.0,320,Fernanda Lima,2012-08-20
+3,Hospital Esperança,Anápolis,go,Centro-Oeste,140.0,260,Ricardo Alves,2014-11-10
+4,Hospital Santa Luz,Brasília,DF,Centro Oeste,220.0,380,Mariana Rocha,2011-04-18
+5,Hospital São Lucas,Uberlândia,MG,Sudeste,,500,Paulo Silva,2009-09-05
+6,Hospital Regional,Catalão,GO,Centro-Oeste,120.0,-100,Juliana Souza,2016-07-22
+7,Hospital Bem Viver,Luziânia,GO,Centro-Oeste,160.0,240,Roberto Lima,2018-15-35
+8,Hospital Popular,Taguatinga,DF,Centro-Oeste,280.0,420, Patrícia Costa,2008-05-30
+9,HOSPITAL SAÚDE TOTAL,Formosa,GO,Centro-Oeste,150.0,210,Eduardo Ramos,2015-10-12
+10,Hospital Horizonte,Valparaíso,GO,Centro-Oeste,200.0,350,Larissa Melo,2018-02-08
+3,Hospital Esperança,Anápolis,go,Centro-Oeste,140.0,260,Ricardo Alves,2014-11-10
