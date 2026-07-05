@@ -1,0 +1,101 @@
+﻿id_venda,data_venda,cliente,idade_cliente,categoria,produto,regiao,quantidade,valor_venda,cancelado
+1,2025-01-29,Daniela,32.0,Acessórios,Carregador,Norte,9,3720.67,Sim
+2,2025-04-19,Daniela,32.0,Acessorios,Fone,Sul,4,197.5,Não
+3,04-25-2025,Ana,66.0,Informatica,Notebook,Sudeste,6,1427.04,Não
+4,25/02/2025,Gustavo,24.0,Informatica,Mouse,Centro-Oeste,10,555.94,Não
+5,04-28-2025,Gustavo,23.0,Eletrônicos,Smartwatch,Sul,6,667.89,Sim
+6,2025-01-18,Eduardo,,Acessórios,Carregador,Norte,7,3323.25,Não
+7,12/06/2025,Fernanda,31.0,Celulares,Tablet,Norte,10,855.14,Sim
+8,2025-03-04,Eduardo,58.0,Acessorios,Fone,Centro-Oeste,1,2338.19,Sim
+9,22/03/2025,Daniela,54.0,Eletrônicos,Smartwatch,Nordeste,8,1375.32,Não
+10,2025-04-28,Daniela,65.0,Acessórios,Fone Bluetooth,Sul,7,1361.16,Não
+11,2025-02-26,Bruno,66.0,,Notebook,Norte,3,2572.16,Sim
+12,04-19-2025,Gustavo,56.0,Acessórios,Fone Bluetooth,Sul,5,364.46,Sim
+13,01-30-2025,Eduardo,67.0,Acessórios,Fone Bluetooth,Norte,5,4429.7,Não
+14,2025-04-27,Eduardo,50.0,Informatica,Notebook,Sul,2,4771.39,Não
+15,05-10-2025,Carlos,52.0,Acessórios,Carregador,Sul,6,50000.0,Não
+16,29/01/2025,Eduardo,33.0,Eletrônicos,TV,Nordeste,10,4399.67,Sim
+17,2025-05-05,Carlos,26.0,Eletrônicos,Smartwatch,Sul,3,4891.02,Não
+18,05/06/2025,Daniela,63.0,Acessorios,Cabo USB,Sudeste,6,4823.6,Não
+19,2025-04-26,Bruno,39.0,Acessorios,Fone,Sul,9,1277.13,Sim
+20,2025-02-26,Ana,32.0,Acessorios,Fone,Norte,6,401.42,Sim
+21,02/03/2025,Daniela,,Acessorios,Fone,Sul,10,3361.44,Não
+22,02/05/2025,Bruno,60.0,Informatica,Mouse,Centro-Oeste,7,992.53,Não
+23,01-14-2025,Bruno,21.0,Celulares,Tablet,Centro-Oeste,2,3284.6,Sim
+24,02-18-2025,Gustavo,29.0,Informatica,Mouse,Sudeste,4,2270.64,Sim
+25,2025-05-21,Ana,23.0,Celulares,Smartphone,Nordeste,7,300.41,Não
+26,24/02/2025,Carlos,42.0,Celulares,Smartphone,Sudeste,5,4517.09,Não
+27,04-19-2025,Helena,27.0,Informática,Notebook,Centro-Oeste,4,4788.72,Sim
+28,2025-05-19,Ana,21.0,Acessorios,Cabo USB,Sul,9,3752.48,Sim
+29,2025-05-11,Bruno,56.0,Eletrônicos,TV,Nordeste,7,4264.15,Sim
+30,03-05-2025,Bruno,44.0,Acessorios,Cabo USB,Centro-Oeste,4,2992.87,Não
+31,09/03/2025,Eduardo,47.0,Informatica,Mouse,Norte,1,-150.0,Não
+32,2025-05-25,Daniela,50.0,Acessorios,Cabo USB,Nordeste,6,412.64,Sim
+33,05/04/2025,Eduardo,57.0,Informatica,Notebook,Sul,5,830.85,Sim
+34,2025-03-09,Carlos,35.0,Informatica,Mouse,Sul,4,4454.08,Não
+35,06-25-2025,Helena,34.0,Informatica,Notebook,Norte,7,4271.92,Não
+36,01/01/2025,Eduardo,28.0,Eletrônicos,Smartwatch,Sul,7,3867.04,Sim
+37,01-20-2025,Ana,41.0,Eletrônicos,TV,Sudeste,3,4524.45,Sim
+38,2025-04-04,Daniela,61.0,Informática,Notebook,Norte,6,4499.68,Não
+39,2025-02-09,Carlos,44.0,Acessorios,Fone,Nordeste,6,4329.8,Não
+40,05/03/2025,Bruno,42.0,Acessórios,Carregador,Sudeste,4,838.03,Sim
+41,31/03/2025,Daniela,32.0,,Smartphone,Nordeste,7,4111.66,Não
+42,18/01/2025,Gustavo,61.0,Informática,Teclado,Norte,2,1788.17,Não
+43,29/05/2025,Gustavo,40.0,Informatica,Mouse,Sudeste,10,239.37,Sim
+44,2025-05-28,Gustavo,18.0,Celulares,Smartphone,Centro-Oeste,7,1310.88,Sim
+45,03-26-2025,Eduardo,50.0,Acessórios,Fone Bluetooth,Sudeste,6,25000.0,Não
+46,03-17-2025,Gustavo,60.0,Acessórios,Fone Bluetooth,Nordeste,10,680.07,Não
+47,2025-05-21,Daniela,45.0,Celulares,Tablet,Sudeste,8,1554.18,Não
+48,02-24-2025,Carlos,60.0,Acessórios,Carregador,Centro-Oeste,9,2392.27,Não
+49,03-02-2025,Daniela,27.0,Eletrônicos,TV,Norte,4,1586.58,Não
+50,19/01/2025,Daniela,63.0,Acessorios,Cabo USB,Sudeste,7,2101.48,Sim
+51,06-17-2025,Bruno,67.0,Informatica,Mouse,Nordeste,3,77.45,Não
+52,2025-05-23,Bruno,47.0,Eletrônicos,TV,Sudeste,9,4591.48,Não
+53,06-06-2025,Gustavo,53.0,Celulares,Tablet,Nordeste,8,4465.5,Não
+54,03-05-2025,Helena,58.0,Informática,Notebook,Centro-Oeste,8,1422.69,Sim
+55,2025-03-15,Fernanda,52.0,Acessórios,Carregador,Nordeste,3,1394.99,Sim
+56,2025-06-27,Bruno,44.0,Celulares,Tablet,Centro-Oeste,9,3546.77,Não
+57,2025-01-16,Gustavo,67.0,Celulares,Smartphone,Sul,7,4172.81,Não
+58,01/04/2025,Gustavo,52.0,Eletrônicos,TV,Sudeste,4,3779.7,Não
+59,2025-05-05,Gustavo,64.0,Celulares,Smartphone,Sudeste,3,1974.84,Sim
+60,06-01-2025,Bruno,59.0,Celulares,Tablet,Nordeste,8,3331.85,Sim
+61,08/03/2025,Helena,,Eletrônicos,Smartwatch,Sudeste,5,1670.4,Não
+62,21/01/2025,Ana,40.0,Informática,Notebook,Norte,1,145.95,Sim
+63,2025-02-21,Daniela,26.0,Informatica,Mouse,Norte,10,3125.61,Sim
+64,29/06/2025,Carlos,56.0,Celulares,Smartphone,Nordeste,5,3846.15,Sim
+65,07/01/2025,Gustavo,43.0,Acessorios,Fone,Norte,10,2900.19,Sim
+66,28/06/2025,Bruno,68.0,Eletrônicos,TV,Centro-Oeste,9,4258.95,Não
+67,2025-04-05,Fernanda,18.0,Acessórios,Fone Bluetooth,Sudeste,2,2554.51,Não
+68,12/06/2025,Gustavo,29.0,Informática,Teclado,Sul,9,3551.18,Não
+69,04-22-2025,Fernanda,33.0,Celulares,Smartphone,Centro-Oeste,8,2982.75,Sim
+70,05-26-2025,Fernanda,19.0,Celulares,Tablet,Centro-Oeste,3,3357.53,Não
+71,01/04/2025,Eduardo,53.0,Informatica,Notebook,Sul,4,1734.68,Sim
+72,15/04/2025,Daniela,62.0,Informatica,Mouse,Sudeste,8,2798.12,Sim
+73,2025-03-17,Daniela,37.0,Eletrônicos,Smartwatch,Sudeste,9,2051.79,Não
+74,21/05/2025,Helena,35.0,Celulares,Tablet,Centro-Oeste,4,1791.46,Sim
+75,19/02/2025,Carlos,30.0,Acessórios,Carregador,Sudeste,5,641.8,Não
+76,19/02/2025,Carlos,37.0,Eletrônicos,TV,Sul,3,,Não
+77,01-14-2025,Carlos,58.0,Eletrônicos,Smartwatch,Norte,1,1496.08,Não
+78,03/05/2025,Ana,34.0,Celulares,Tablet,Norte,2,1736.49,Não
+79,01-19-2025,Ana,27.0,Celulares,Smartphone,Sul,5,3165.76,Sim
+80,01-31-2025,Daniela,67.0,Informatica,Mouse,Sudeste,8,3834.0,Não
+81,20/04/2025,Ana,57.0,Acessorios,Fone,Nordeste,4,2864.72,Não
+82,2025-01-21,Bruno,28.0,Acessórios,Carregador,Sudeste,8,1237.33,Não
+83,2025-01-09,Eduardo,62.0,Informática,Teclado,Norte,4,1476.12,Não
+84,05-31-2025,Daniela,45.0,Acessórios,Carregador,Sul,4,4029.33,Sim
+85,2025-02-06,Eduardo,46.0,Informática,Notebook,Sudeste,5,50000.0,Não
+86,05-09-2025,Bruno,56.0,Informática,Notebook,Sudeste,6,2494.29,Não
+87,2025-01-24,Ana,66.0,Eletrônicos,Smartwatch,Sul,1,4811.46,Sim
+88,05-13-2025,Eduardo,29.0,Celulares,Tablet,Sudeste,2,2239.04,Não
+89,15/04/2025,Bruno,28.0,Informática,Teclado,Sudeste,8,1639.24,Não
+90,04-13-2025,Bruno,38.0,Acessórios,Fone Bluetooth,Centro-Oeste,2,231.65,Não
+91,01-01-2025,Helena,44.0,Acessorios,Fone,Nordeste,9,4353.37,Não
+92,05-08-2025,Ana,31.0,Acessorios,Cabo USB,Sul,3,2238.1,Não
+93,28/06/2025,Daniela,63.0,Celulares,Smartphone,Centro-Oeste,9,651.06,Sim
+94,2025-04-15,Bruno,47.0,Acessorios,Fone,Nordeste,8,1162.27,Não
+95,30/06/2025,Helena,48.0,Acessorios,Fone,Sudeste,9,2106.68,Sim
+11,2025-02-26,Bruno,66.0,,Notebook,Norte,3,2572.16,Sim
+26,24/02/2025,Carlos,42.0,Celulares,Smartphone,Sudeste,5,4517.09,Não
+98,05-22-2025,Fernanda,30.0,Informática,Notebook,Sul,7,1917.19,Sim
+99,12/01/2025,Gustavo,42.0,Celulares,Smartphone,Sudeste,1,3736.29,Sim
+100,01/06/2025,Helena,24.0,Acessorios,Cabo USB,Norte,3,4355.02,Não

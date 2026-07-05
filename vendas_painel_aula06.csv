@@ -1,0 +1,101 @@
+﻿id_venda,data_venda,ano,mes,regiao,estado,categoria,produto,cliente,quantidade,valor_unitario,valor_venda,canal,vendedor
+1,2025-01-26,2025,January,Sul,SC,Acessórios,Webcam,Cliente 001,2,2499.9,4999.8,Loja Física,Ana Souza
+2,2025-03-09,2025,March,Sul,PR,Smartphones,Smartphone B,Cliente 002,5,499.9,2499.5,E-commerce,Pedro Alves
+3,2025-04-14,2025,April,Norte,PA,Periféricos,Impressora,Cliente 003,1,499.9,499.9,E-commerce,Carlos Lima
+4,2025-04-03,2025,April,Sul,PR,Games,Controle,Cliente 004,3,129.9,389.7,Loja Física,Pedro Alves
+5,2025-05-23,2025,May,Sudeste,SP,Games,Console,Cliente 005,4,1599.9,6399.6,Loja Física,Carlos Lima
+6,2025-01-24,2025,January,Norte,AM,Periféricos,Impressora,Cliente 006,2,249.9,499.8,E-commerce,Ana Souza
+7,2025-03-14,2025,March,Centro-Oeste,GO,Smartphones,Smartphone B,Cliente 007,4,129.9,519.6,Loja Física,Ana Souza
+8,2025-03-31,2025,March,Norte,PA,Smartphones,Smartphone A,Cliente 008,2,1599.9,3199.8,E-commerce,Mariana Silva
+9,2025-04-21,2025,April,Norte,PA,Acessórios,Hub USB,Cliente 009,5,249.9,1249.5,E-commerce,Ana Souza
+10,2025-02-12,2025,February,Nordeste,BA,Smartphones,Smartphone A,Cliente 010,4,2499.9,9999.6,Loja Física,Carlos Lima
+11,2025-05-17,2025,May,Norte,AM,Games,Console,Cliente 011,1,899.9,899.9,E-commerce,Ana Souza
+12,2025-03-10,2025,March,Centro-Oeste,DF,Periféricos,SSD,Cliente 012,1,129.9,129.9,Loja Física,Ana Souza
+13,2025-05-08,2025,May,Norte,AM,Games,Controle,Cliente 013,2,1599.9,3199.8,E-commerce,Juliana Costa
+14,2025-05-16,2025,May,Norte,PA,Games,Controle,Cliente 014,3,249.9,749.7,E-commerce,Pedro Alves
+15,2025-01-01,2025,January,Nordeste,PE,Informática,Monitor,Cliente 015,2,249.9,499.8,E-commerce,Pedro Alves
+16,2025-03-17,2025,March,Sudeste,SP,Periféricos,SSD,Cliente 016,5,499.9,2499.5,E-commerce,Carlos Lima
+17,2025-02-25,2025,February,Centro-Oeste,DF,Informática,Notebook,Cliente 017,4,129.9,519.6,Loja Física,Carlos Lima
+18,2025-01-07,2025,January,Norte,PA,Acessórios,Headset,Cliente 018,5,899.9,4499.5,Loja Física,Pedro Alves
+19,2025-01-20,2025,January,Nordeste,BA,Informática,Mouse,Cliente 019,3,129.9,389.7,Loja Física,Ana Souza
+20,2025-02-14,2025,February,Centro-Oeste,DF,Games,Console,Cliente 020,3,899.9,2699.7,E-commerce,Pedro Alves
+21,2025-03-11,2025,March,Sudeste,RJ,Informática,Teclado,Cliente 021,5,1599.9,7999.5,Loja Física,Carlos Lima
+22,2025-02-26,2025,February,Sul,SC,Acessórios,Webcam,Cliente 022,2,2499.9,4999.8,Loja Física,Juliana Costa
+23,2025-04-23,2025,April,Norte,PA,Games,Console,Cliente 023,5,129.9,649.5,Loja Física,Pedro Alves
+24,2025-02-04,2025,February,Sudeste,SP,Informática,Mouse,Cliente 024,4,1599.9,6399.6,E-commerce,Pedro Alves
+25,2025-02-26,2025,February,Centro-Oeste,GO,Smartphones,Smartphone B,Cliente 025,1,899.9,899.9,Loja Física,Mariana Silva
+26,2025-02-08,2025,February,Sudeste,RJ,Smartphones,Smartphone A,Cliente 026,1,79.9,79.9,Loja Física,Juliana Costa
+27,2025-01-05,2025,January,Nordeste,BA,Periféricos,Impressora,Cliente 027,1,249.9,249.9,E-commerce,Carlos Lima
+28,2025-05-18,2025,May,Norte,PA,Periféricos,SSD,Cliente 028,4,249.9,999.6,Loja Física,Ana Souza
+29,2025-03-29,2025,March,Centro-Oeste,DF,Games,Controle,Cliente 029,1,249.9,249.9,E-commerce,Mariana Silva
+30,2025-03-14,2025,March,Centro-Oeste,DF,Games,Controle,Cliente 030,2,899.9,1799.8,Loja Física,Juliana Costa
+31,2025-03-25,2025,March,Nordeste,PE,Smartphones,Smartphone A,Cliente 031,1,899.9,899.9,E-commerce,Pedro Alves
+32,2025-01-02,2025,January,Sudeste,RJ,Acessórios,Hub USB,Cliente 032,5,499.9,2499.5,Loja Física,Carlos Lima
+33,2025-05-25,2025,May,Norte,PA,Acessórios,Webcam,Cliente 033,3,79.9,239.7,Loja Física,Mariana Silva
+34,2025-04-29,2025,April,Centro-Oeste,DF,Games,Controle,Cliente 034,5,79.9,399.5,E-commerce,Mariana Silva
+35,2025-04-04,2025,April,Norte,AM,Informática,Teclado,Cliente 035,1,1599.9,1599.9,E-commerce,Juliana Costa
+36,2025-04-03,2025,April,Nordeste,PE,Games,Console,Cliente 036,2,3499.9,6999.8,E-commerce,Ana Souza
+37,2025-03-13,2025,March,Centro-Oeste,DF,Acessórios,Headset,Cliente 037,3,899.9,2699.7,Loja Física,Carlos Lima
+38,2025-01-24,2025,January,Centro-Oeste,DF,Informática,Teclado,Cliente 038,4,3499.9,13999.6,E-commerce,Carlos Lima
+39,2025-01-11,2025,January,Sudeste,RJ,Informática,Notebook,Cliente 039,5,499.9,2499.5,E-commerce,Pedro Alves
+40,2025-02-05,2025,February,Sul,PR,Acessórios,Webcam,Cliente 040,2,2499.9,4999.8,Loja Física,Ana Souza
+41,2025-03-03,2025,March,Centro-Oeste,GO,Informática,Monitor,Cliente 041,1,1599.9,1599.9,E-commerce,Pedro Alves
+42,2025-05-16,2025,May,Norte,PA,Games,Console,Cliente 042,5,3499.9,17499.5,E-commerce,Mariana Silva
+43,2025-04-03,2025,April,Sudeste,RJ,Informática,Notebook,Cliente 043,4,249.9,999.6,Loja Física,Carlos Lima
+44,2025-05-30,2025,May,Nordeste,BA,Smartphones,Smartphone B,Cliente 044,3,1599.9,4799.7,Loja Física,Ana Souza
+45,2025-04-11,2025,April,Nordeste,BA,Games,Controle,Cliente 045,1,3499.9,3499.9,Loja Física,Mariana Silva
+46,2025-03-09,2025,March,Sudeste,RJ,Informática,Notebook,Cliente 046,5,3499.9,17499.5,E-commerce,Carlos Lima
+47,2025-05-04,2025,May,Nordeste,BA,Acessórios,Headset,Cliente 047,5,129.9,649.5,Loja Física,Mariana Silva
+48,2025-01-20,2025,January,Sul,SC,Games,Console,Cliente 048,4,129.9,519.6,Loja Física,Carlos Lima
+49,2025-01-05,2025,January,Norte,PA,Informática,Monitor,Cliente 049,3,899.9,2699.7,Loja Física,Pedro Alves
+50,2025-01-20,2025,January,Nordeste,BA,Informática,Monitor,Cliente 050,4,1599.9,6399.6,Loja Física,Juliana Costa
+51,2025-02-03,2025,February,Nordeste,PE,Smartphones,Smartphone A,Cliente 051,3,899.9,2699.7,E-commerce,Carlos Lima
+52,2025-05-04,2025,May,Norte,PA,Informática,Teclado,Cliente 052,4,249.9,999.6,E-commerce,Pedro Alves
+53,2025-01-31,2025,January,Nordeste,BA,Smartphones,Smartphone A,Cliente 053,2,1599.9,3199.8,E-commerce,Mariana Silva
+54,2025-03-15,2025,March,Sudeste,SP,Informática,Monitor,Cliente 054,1,249.9,249.9,E-commerce,Juliana Costa
+55,2025-05-08,2025,May,Sul,PR,Informática,Notebook,Cliente 055,3,79.9,239.7,Loja Física,Pedro Alves
+56,2025-05-11,2025,May,Nordeste,BA,Informática,Monitor,Cliente 056,5,499.9,2499.5,E-commerce,Mariana Silva
+57,2025-03-25,2025,March,Nordeste,BA,Periféricos,Impressora,Cliente 057,4,129.9,519.6,Loja Física,Juliana Costa
+58,2025-05-27,2025,May,Sul,PR,Smartphones,Smartphone B,Cliente 058,5,129.9,649.5,Loja Física,Carlos Lima
+59,2025-01-22,2025,January,Nordeste,BA,Informática,Teclado,Cliente 059,1,499.9,499.9,E-commerce,Ana Souza
+60,2025-04-30,2025,April,Sul,SC,Games,Controle,Cliente 060,5,899.9,4499.5,Loja Física,Mariana Silva
+61,2025-03-09,2025,March,Nordeste,BA,Periféricos,Impressora,Cliente 061,3,79.9,239.7,E-commerce,Ana Souza
+62,2025-02-17,2025,February,Sudeste,RJ,Periféricos,SSD,Cliente 062,1,79.9,79.9,Loja Física,Ana Souza
+63,2025-01-17,2025,January,Sul,PR,Games,Console,Cliente 063,1,79.9,79.9,E-commerce,Pedro Alves
+64,2025-01-13,2025,January,Centro-Oeste,GO,Games,Controle,Cliente 064,4,899.9,3599.6,Loja Física,Pedro Alves
+65,2025-04-04,2025,April,Norte,PA,Smartphones,Smartphone B,Cliente 065,4,1599.9,6399.6,Loja Física,Carlos Lima
+66,2025-04-18,2025,April,Centro-Oeste,GO,Acessórios,Hub USB,Cliente 066,5,899.9,4499.5,E-commerce,Juliana Costa
+67,2025-05-18,2025,May,Sudeste,SP,Games,Controle,Cliente 067,4,79.9,319.6,E-commerce,Carlos Lima
+68,2025-03-18,2025,March,Sul,PR,Periféricos,SSD,Cliente 068,5,3499.9,17499.5,Loja Física,Ana Souza
+69,2025-03-09,2025,March,Sul,SC,Informática,Mouse,Cliente 069,5,249.9,1249.5,E-commerce,Ana Souza
+70,2025-04-21,2025,April,Sudeste,SP,Acessórios,Webcam,Cliente 070,1,129.9,129.9,Loja Física,Pedro Alves
+71,2025-05-23,2025,May,Sul,SC,Smartphones,Smartphone B,Cliente 071,3,129.9,389.7,Loja Física,Carlos Lima
+72,2025-05-05,2025,May,Nordeste,PE,Acessórios,Webcam,Cliente 072,4,2499.9,9999.6,Loja Física,Ana Souza
+73,2025-01-21,2025,January,Nordeste,BA,Informática,Notebook,Cliente 073,2,3499.9,6999.8,E-commerce,Juliana Costa
+74,2025-02-23,2025,February,Centro-Oeste,DF,Games,Console,Cliente 074,2,3499.9,6999.8,Loja Física,Ana Souza
+75,2025-05-24,2025,May,Nordeste,BA,Acessórios,Headset,Cliente 075,2,79.9,159.8,Loja Física,Pedro Alves
+76,2025-03-01,2025,March,Centro-Oeste,GO,Acessórios,Headset,Cliente 076,3,129.9,389.7,E-commerce,Juliana Costa
+77,2025-02-05,2025,February,Norte,AM,Periféricos,Impressora,Cliente 077,3,3499.9,10499.7,E-commerce,Juliana Costa
+78,2025-02-18,2025,February,Sudeste,SP,Games,Controle,Cliente 078,2,79.9,159.8,E-commerce,Ana Souza
+79,2025-01-05,2025,January,Centro-Oeste,GO,Periféricos,SSD,Cliente 079,2,79.9,159.8,Loja Física,Carlos Lima
+80,2025-02-13,2025,February,Norte,PA,Acessórios,Hub USB,Cliente 080,2,3499.9,6999.8,E-commerce,Juliana Costa
+81,2025-02-24,2025,February,Sul,PR,Informática,Mouse,Cliente 081,5,3499.9,17499.5,E-commerce,Mariana Silva
+82,2025-02-13,2025,February,Norte,PA,Acessórios,Webcam,Cliente 082,4,3499.9,13999.6,E-commerce,Ana Souza
+83,2025-02-09,2025,February,Centro-Oeste,DF,Informática,Teclado,Cliente 083,2,499.9,999.8,Loja Física,Ana Souza
+84,2025-05-12,2025,May,Nordeste,BA,Acessórios,Hub USB,Cliente 084,1,79.9,79.9,E-commerce,Carlos Lima
+85,2025-05-21,2025,May,Nordeste,BA,Smartphones,Smartphone A,Cliente 085,1,129.9,129.9,E-commerce,Mariana Silva
+86,2025-03-21,2025,March,Nordeste,PE,Acessórios,Headset,Cliente 086,2,2499.9,4999.8,E-commerce,Ana Souza
+87,2025-01-30,2025,January,Norte,PA,Periféricos,SSD,Cliente 087,3,79.9,239.7,Loja Física,Pedro Alves
+88,2025-05-17,2025,May,Norte,AM,Acessórios,Hub USB,Cliente 088,3,79.9,239.7,Loja Física,Juliana Costa
+89,2025-02-24,2025,February,Sul,SC,Games,Controle,Cliente 089,3,3499.9,10499.7,Loja Física,Ana Souza
+90,2025-04-28,2025,April,Nordeste,PE,Acessórios,Headset,Cliente 090,1,1599.9,1599.9,E-commerce,Carlos Lima
+91,2025-05-30,2025,May,Nordeste,PE,Informática,Notebook,Cliente 091,2,129.9,259.8,E-commerce,Mariana Silva
+92,2025-02-14,2025,February,Centro-Oeste,GO,Periféricos,Impressora,Cliente 092,4,1599.9,6399.6,E-commerce,Ana Souza
+93,2025-05-16,2025,May,Norte,AM,Periféricos,Impressora,Cliente 093,1,1599.9,1599.9,Loja Física,Carlos Lima
+94,2025-04-11,2025,April,Centro-Oeste,GO,Periféricos,Impressora,Cliente 094,3,249.9,749.7,Loja Física,Mariana Silva
+95,2025-01-30,2025,January,Nordeste,BA,Acessórios,Webcam,Cliente 095,1,899.9,899.9,Loja Física,Ana Souza
+96,2025-01-27,2025,January,Nordeste,PE,Smartphones,Smartphone A,Cliente 096,1,2499.9,2499.9,E-commerce,Mariana Silva
+97,2025-03-06,2025,March,Nordeste,BA,Acessórios,Headset,Cliente 097,4,899.9,3599.6,Loja Física,Ana Souza
+98,2025-01-13,2025,January,Sudeste,SP,Smartphones,Smartphone A,Cliente 098,5,899.9,4499.5,Loja Física,Mariana Silva
+99,2025-05-15,2025,May,Sul,PR,Periféricos,SSD,Cliente 099,5,2499.9,12499.5,E-commerce,Carlos Lima
+100,2025-04-17,2025,April,Sul,SC,Acessórios,Headset,Cliente 100,1,499.9,499.9,Loja Física,Carlos Lima
