@@ -1,0 +1,101 @@
+﻿id_atendimento,data,hospital_id,especialidade,medico,idade,sexo,tempo_espera,tempo_atendimento,satisfacao,convenio,valor_consulta
+1,2025-03-03,6,Clínica Geral,Dra. Almeida,71,F,38,39,3.3,SulAmérica,220
+2,2025-06-17,10,Pediatria,Dr. Lima,65,M,27,38,3.9,Unimed,250
+3,2025-03-03,1,Neurologia,Dr. Silva,64,F,30,35,4.0,Particular,500
+4,2025-01-21,3,Pediatria,Dra. Costa,73,F,26,37,4.5,Unimed,250
+5,2025-01-25,8,Cardiologia,Dra. Souza,25,F,20,41,4.4,SulAmérica,450
+6,2025-04-25,4,Neurologia,Dra. Almeida,36,M,31,28,4.0,Unimed,500
+7,2025-03-10,8,Clínica Geral,Dr. Lima,22,M,39,28,3.1,Unimed,220
+8,2025-03-30,6,Pediatria,Dra. Costa,29,M,14,36,5.0,Particular,250
+9,2025-03-23,4,Ortopedia,Dr. Silva,34,F,36,45,3.8,SulAmérica,350
+10,2025-04-10,8,Pediatria,Dra. Almeida,31,F,39,33,3.9,SulAmérica,250
+11,2025-01-17,3,Pediatria,Dra. Costa,87,F,25,31,4.2,SulAmérica,250
+12,2025-05-19,10,Cardiologia,Dr. Lima,69,F,24,42,4.3,SulAmérica,450
+13,2025-05-24,8,Clínica Geral,Dr. Silva,54,M,31,32,4.3,Particular,220
+14,2025-01-17,1,Ortopedia,Dr. Lima,12,M,22,38,4.2,Particular,350
+15,2025-05-05,3,Pediatria,Dra. Costa,56,F,20,32,4.1,Bradesco,250
+16,2025-06-28,8,Clínica Geral,Dra. Costa,43,M,26,32,4.2,Unimed,220
+17,2025-01-09,4,Ortopedia,Dra. Almeida,76,F,32,34,3.9,Particular,350
+18,2025-03-17,7,Clínica Geral,Dra. Souza,38,M,30,31,4.2,Particular,220
+19,2025-05-21,2,Pediatria,Dr. Lima,21,F,34,36,4.6,Unimed,250
+20,2025-04-13,4,Ortopedia,Dr. Lima,24,M,35,34,3.7,Unimed,350
+21,2025-01-25,5,Ortopedia,Dra. Costa,89,F,26,31,4.5,SulAmérica,350
+22,2025-05-23,4,Clínica Geral,Dr. Lima,77,F,22,34,4.1,Particular,220
+23,2025-06-10,1,Pediatria,Dra. Souza,55,F,36,26,3.7,SulAmérica,250
+24,2025-06-16,4,Clínica Geral,Dr. Silva,55,M,27,36,4.2,Particular,220
+25,2025-04-03,8,Ortopedia,Dra. Costa,25,F,26,40,4.2,SulAmérica,350
+26,2025-05-10,8,Clínica Geral,Dr. Pereira,34,F,47,25,3.6,SulAmérica,220
+27,2025-03-31,5,Pediatria,Dra. Costa,58,F,19,30,5.0,SulAmérica,250
+28,2025-05-19,6,Cardiologia,Dra. Almeida,52,M,41,23,3.6,SulAmérica,450
+29,2025-01-17,10,Clínica Geral,Dra. Almeida,40,M,27,22,4.1,Bradesco,220
+30,2025-01-19,7,Clínica Geral,Dr. Pereira,48,F,31,36,3.4,Unimed,220
+31,2025-03-20,2,Cardiologia,Dr. Pereira,7,M,36,36,3.8,Particular,450
+32,2025-02-19,10,Neurologia,Dr. Pereira,57,M,21,39,4.6,SulAmérica,500
+33,2025-05-28,4,Cardiologia,Dr. Pereira,73,F,24,35,4.4,Particular,450
+34,2025-05-29,1,Clínica Geral,Dr. Silva,73,F,12,35,4.0,SulAmérica,220
+35,2025-06-13,3,Ortopedia,Dra. Souza,16,F,20,37,4.3,Unimed,350
+36,2025-05-18,9,Cardiologia,Dr. Lima,12,F,24,33,4.5,SulAmérica,450
+37,2025-03-31,1,Pediatria,Dra. Souza,57,F,33,30,4.0,SulAmérica,250
+38,2025-06-04,3,Clínica Geral,Dr. Lima,55,F,24,49,4.0,SulAmérica,220
+39,2025-01-25,7,Ortopedia,Dra. Almeida,20,M,25,32,4.0,Unimed,350
+40,2025-02-18,10,Pediatria,Dra. Costa,47,F,29,36,3.5,Particular,250
+41,2025-02-12,5,Pediatria,Dra. Souza,7,M,23,27,4.6,Particular,250
+42,2025-04-03,3,Pediatria,Dr. Lima,6,F,47,43,3.5,SulAmérica,250
+43,2025-02-19,8,Cardiologia,Dra. Souza,22,F,36,36,4.3,SulAmérica,450
+44,2025-03-26,1,Neurologia,Dra. Souza,23,F,33,33,3.6,Unimed,500
+45,2025-06-28,7,Pediatria,Dr. Silva,51,M,22,36,3.9,Unimed,250
+46,2025-06-13,5,Cardiologia,Dra. Almeida,38,M,26,43,4.1,Bradesco,450
+47,2025-05-14,10,Clínica Geral,Dra. Costa,78,M,43,43,3.5,Bradesco,220
+48,2025-02-10,7,Cardiologia,Dra. Almeida,30,M,17,34,4.3,SulAmérica,450
+49,2025-04-13,10,Cardiologia,Dra. Souza,37,F,31,44,3.6,Particular,450
+50,2025-02-18,10,Neurologia,Dr. Pereira,68,M,24,36,4.5,Particular,500
+51,2025-01-09,1,Ortopedia,Dra. Almeida,56,F,32,37,4.3,Unimed,350
+52,2025-04-02,6,Clínica Geral,Dra. Almeida,61,M,31,33,4.0,Particular,220
+53,2025-03-16,4,Cardiologia,Dra. Souza,32,F,22,38,4.5,SulAmérica,450
+54,2025-01-08,3,Clínica Geral,Dr. Silva,16,M,5,42,4.8,Particular,220
+55,2025-02-15,2,Clínica Geral,Dra. Almeida,50,M,31,38,3.3,Particular,220
+56,2025-06-19,3,Clínica Geral,Dr. Pereira,54,M,18,33,4.2,Unimed,220
+57,2025-04-07,10,Cardiologia,Dra. Costa,59,F,30,31,3.5,Unimed,450
+58,2025-06-10,8,Cardiologia,Dra. Costa,47,M,32,41,4.1,Unimed,450
+59,2025-02-15,2,Ortopedia,Dra. Costa,2,M,22,33,4.4,Bradesco,350
+60,2025-05-15,5,Cardiologia,Dra. Souza,14,M,32,41,3.8,Bradesco,450
+61,2025-03-27,1,Clínica Geral,Dr. Pereira,34,F,16,30,4.6,Unimed,220
+62,2025-06-12,1,Clínica Geral,Dr. Pereira,8,M,33,48,3.9,Particular,220
+63,2025-03-20,7,Cardiologia,Dra. Souza,4,F,29,33,3.9,Particular,450
+64,2025-04-29,8,Pediatria,Dra. Souza,81,M,34,37,3.8,Particular,250
+65,2025-02-09,8,Ortopedia,Dra. Almeida,90,M,19,34,4.2,Bradesco,350
+66,2025-05-01,3,Pediatria,Dr. Silva,63,F,38,40,3.4,Unimed,250
+67,2025-03-12,4,Pediatria,Dra. Costa,67,F,37,31,3.8,SulAmérica,250
+68,2025-06-14,6,Cardiologia,Dra. Almeida,41,M,37,28,3.8,Particular,450
+69,2025-06-22,6,Pediatria,Dr. Pereira,67,M,18,23,4.7,SulAmérica,250
+70,2025-01-21,1,Pediatria,Dra. Souza,5,M,28,30,3.6,Bradesco,250
+71,2025-06-18,8,Ortopedia,Dr. Pereira,85,M,24,43,4.3,Particular,350
+72,2025-04-04,8,Cardiologia,Dra. Costa,40,M,25,30,4.2,Unimed,450
+73,2025-04-13,9,Clínica Geral,Dra. Almeida,70,M,15,43,4.7,Unimed,220
+74,2025-04-08,4,Clínica Geral,Dr. Pereira,77,F,37,31,4.0,SulAmérica,220
+75,2025-02-18,2,Clínica Geral,Dr. Pereira,20,M,33,25,3.9,Particular,220
+76,2025-04-27,2,Clínica Geral,Dra. Souza,2,F,30,31,3.9,Unimed,220
+77,2025-04-04,7,Clínica Geral,Dra. Almeida,27,M,31,34,3.7,Bradesco,220
+78,2025-03-08,3,Ortopedia,Dr. Silva,63,F,32,36,4.0,Bradesco,350
+79,2025-03-25,5,Ortopedia,Dr. Pereira,90,M,28,37,4.0,SulAmérica,350
+80,2025-04-28,3,Clínica Geral,Dr. Silva,54,F,21,30,4.6,Particular,220
+81,2025-02-11,2,Cardiologia,Dra. Costa,69,M,11,38,4.2,Particular,450
+82,2025-05-21,5,Pediatria,Dr. Pereira,62,M,15,28,4.4,SulAmérica,250
+83,2025-04-15,8,Neurologia,Dra. Souza,51,M,33,24,4.4,SulAmérica,500
+84,2025-06-12,10,Neurologia,Dra. Almeida,64,F,37,34,3.7,Bradesco,500
+85,2025-02-09,8,Pediatria,Dra. Souza,30,F,20,38,4.4,SulAmérica,250
+86,2025-04-14,5,Pediatria,Dra. Almeida,71,F,39,30,3.9,Particular,250
+87,2025-04-05,8,Pediatria,Dr. Lima,24,M,27,29,4.7,Unimed,250
+88,2025-02-11,9,Ortopedia,Dr. Silva,70,M,30,38,3.7,Particular,350
+89,2025-03-20,3,Cardiologia,Dra. Souza,4,M,22,35,4.1,SulAmérica,450
+90,2025-05-10,4,Ortopedia,Dr. Silva,3,M,32,37,3.7,SulAmérica,350
+91,2025-04-01,1,Pediatria,Dra. Costa,81,F,29,35,4.0,Bradesco,250
+92,2025-03-07,1,Cardiologia,Dra. Souza,84,M,18,29,4.5,Particular,450
+93,2025-05-02,5,Pediatria,Dr. Lima,41,F,36,29,4.2,Bradesco,250
+94,2025-03-17,7,Pediatria,Dr. Silva,14,F,29,27,4.1,Bradesco,250
+95,2025-04-22,8,Pediatria,Dr. Lima,9,M,35,36,4.5,Unimed,250
+96,2025-03-24,5,Pediatria,Dra. Souza,1,F,30,40,4.0,Particular,250
+97,2025-02-13,3,Clínica Geral,Dra. Costa,47,F,35,20,3.6,Particular,220
+98,2025-02-21,10,Ortopedia,Dr. Silva,63,M,25,38,4.2,Bradesco,350
+99,2025-06-18,10,Pediatria,Dra. Almeida,12,M,36,37,3.9,Unimed,250
+100,2025-04-14,9,Cardiologia,Dra. Souza,88,F,26,35,4.4,Unimed,450
