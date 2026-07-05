@@ -1,0 +1,6 @@
+﻿loja_id,loja,cidade,estado,região,tamanho_loja,quantidade_funcionarios,gerente,data_inauguracao
+1,Loja Asa Sul,Brasília,DF,Centro-Oeste,Grande,45,Ana Paula,2018-03-10
+2,Loja Taguatinga,Taguatinga,DF,Centro-Oeste,Média,30,Bruno Silva,2019-07-21
+3,Loja Goiânia,Goiânia,GO,Centro-Oeste,Média,28,Carla Souza,2020-01-15
+4,Loja Anápolis,Anápolis,GO,Centro-Oeste,Pequena,15,Daniel Costa,2021-05-14
+5,Loja Plano Piloto,Brasília,DF,Centro-Oeste,Grande,60,Eva Martins,2017-11-30

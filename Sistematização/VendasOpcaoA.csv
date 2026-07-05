@@ -1,0 +1,103 @@
+﻿id_venda,data,loja_id,categoria,produto,vendedor,cliente_id,idade_cliente,sexo,quantidade,valor_unitario,valor_total,forma_pagamento
+31,2025-04-05,3,ELETRÔNICOS,Mouse,Carlos,9666,18.0,f,8,2087.69,-16701.52,Pix
+68,2025-02-18,2,Eletrônicos,Mouse,Fernanda,8800,59.0, m,7,1231.67,8621.69,Boleto
+63,2025-01-31,3, alimentos ,Arroz,João,9289,59.0,f,6,1341.21,8047.26,Pix
+48,2025-01-19,4,eletronicos,Jaqueta, Ana,7547,33.0,F,4,1801.5,7206.0,Pix
+43,2025-06-20,1, eletrônicos ,TV,Fernanda,5920,50.0,f,6,1665.2,9991.2,Boleto
+41,2025-01-28,3,vestuário,Jaqueta, João ,9379,25.0, m,6,1826.79,10960.74,
+91,2025-03-29,3, alimentos ,Macarrão,Lucas,9022,27.0, m,1,721.44,721.44,
+46,2025-06-22,2,eletrônicos,TV,Fernanda,2389,,f,8,1988.46,15907.68,Pix
+11,2025-04-13,1,ELETRÔNICOS,,Lucas,1771,25.0,F,3,1283.63,3850.89,Cartão
+1,2025-06-13,2,Eletrônicos,Notebook,Fernanda,2679,61.0,M,5,627.33,3136.65,
+19,2025-01-06,1,vestuário,Calça,Maria,2104,20.0,f,4,37.83,151.32,Pix
+32,2025-02-04,2,ELETRÔNICOS,Notebook,Pedro ,5616,56.0,F,2,1861.19,3722.38,Dinheiro
+98,2025-01-08,3,Eletrônicos,Teclado, Ana,3385,33.0, m,1,747.55,747.55,
+86,2025-04-29,5,Vestuário,Camisa,Lucas,9167,58.0, m,4,1305.73,5222.92,Pix
+77,2025-01-26,1, alimentos ,Feijão,Maria,4929,29.0,M,4,676.32,2705.28,Cartão
+5,2025-04-28,3,vestuário,Camisa,Lucas,6925,54.0,F,7,215.42,1507.94,Pix
+80,2025-01-16,4,eletrônicos,Teclado,Fernanda,5982,62.0, m,5,1109.1,5545.5,Dinheiro
+34,2025-03-27,4, alimentos ,Feijão,Carlos,8007,53.0,M,5,420.72,2103.6,
+13,2025-06-24,4,vestuário,Tênis,Maria,8433,18.0,f,6,296.65,1779.9,
+27,2025-05-11,2,Eletrônicos,Mouse, Ana,2964,54.0,F,2,1495.69,2991.38,
+51,2025-05-02,3,Vestuário,Tênis,Lucas,9540,49.0,F,4,2102.86,8411.44,Dinheiro
+54,2025-02-22,5, alimentos ,Café,Fernanda,1320,66.0, m,7,2264.0,15848.0,Boleto
+23,2025-03-13,5,Vestuário,Calça,João,1828,59.0,M,2,1118.96,2237.92,Pix
+69,2025-01-05,2,Eletrônicos,Teclado,Pedro ,7046,48.0,f,4,1022.91,4091.64,Boleto
+45,2025-05-21,4, alimentos ,Arroz,Lucas,6279,47.0,M ,5,731.55,3657.75,Boleto
+99,2025-06-24,5, alimentos ,Feijão,Lucas,7267,57.0,F,3,454.17,1362.51,Boleto
+16,2025-05-26,5,,Notebook,Lucas,3060,26.0, m,8,2043.74,16349.92,
+74,2025-05-03,3,Vestuário,Tênis,Lucas,8827,25.0,M,3,2414.43,7243.29,Boleto
+40,2025-03-31,1,Alimentos,Café,Pedro ,3925,55.0,f,6,2349.31,14095.86,Pix
+10,2025-06-14,5,Vestuário,Calça,Carlos,5304,65.0, m,5,366.28,1831.4,
+85,2025-01-10,1,Vestuário,Camisa,Lucas,7622,50.0,M,6,645.95,3875.7,
+12,2025-06-24,4,Vestuário,Camisa,Carlos,5119,53.0,M,7,966.42,6764.94,Pix
+13,2025-06-24,4,vestuário,Tênis,Maria,8433,18.0,f,6,296.65,1779.9,
+56,2025-02-26,3,ELETRÔNICOS,Monitor,Fernanda,7624,64.0,F,8,91.98,735.84,Boleto
+29,2025-06-21,2,Alimentos,Macarrão,Fernanda,5915,47.0,f,4,678.72,2714.88,Pix
+65,2025-02-15,5,Alimentos,Macarrão,Pedro ,6280,33.0,M,8,1172.89,9383.12,Dinheiro
+6,2025-01-12,2,Alimentos,Feijão,Lucas,2654,,f,5,2463.35,12316.75,Boleto
+79,2025-06-25,5,eletrônicos,Teclado,Maria,3441,35.0,F,4,1074.34,4297.36,Pix
+66,2025-04-26,4,eletrônicos,Monitor,Lucas,6325,29.0, m,7,854.26,5979.82,Cartão
+36,2025-03-20,2,ELETRÔNICOS,Notebook,Fernanda,2684,40.0, m,6,540.99,3245.94,
+17,2025-02-12,5,ELETRÔNICOS,TV,Lucas,4295,63.0,f,7,2411.62,16881.34,Boleto
+92,2025-05-04,3,ELETRÔNICOS,Teclado,Lucas,4090,62.0,F,7,1149.25,8044.75,
+35,2025-01-20,5,Alimentos,Feijão,Carlos,3426,45.0,F,1,2089.8,2089.8,Pix
+8,2025-06-12,4,eletrônicos,TV,Pedro ,4598,61.0,f,4,425.24,1700.96,Pix
+44,2025-03-25,4,Vestuário,Tênis,Fernanda,3851,57.0, f ,3,495.76,1487.28,Boleto
+73,2025-01-14,4,vestuário,Tênis,João,1200,54.0,f,3,1601.92,4805.76,Boleto
+28,2025-06-02,5,Eletrônicos,TV,Carlos,9565,38.0,f,2,1059.68,2119.36,Cartão
+20,2025-05-12,2,eletrônicos,Teclado,Fernanda,8744,33.0, m,8,551.31,4410.48,Boleto
+84,2025-04-15,3,ELETRÔNICOS,Teclado, Ana,9117,36.0, m,2,2147.18,4294.36,
+26,2025-02-25,99,Eletrônicos,TV,João,8811,50.0,F,1,1874.98,1874.98,Pix
+78,2025-01-01,2,Vestuário,Jaqueta,Pedro ,5632,62.0, m,8,742.32,5938.56,Pix
+50,2025-04-27,4,eletrônicos,Monitor,Carlos,9270,45.0, m,6,2376.1,14256.6,Cartão
+14,2025-02-15,5,vestuário,Camisa,Carlos,4258,27.0,f,5,2107.34,10536.7,Cartão
+25,2025-03-09,5, alimentos ,Café,Fernanda,8973,27.0,F,5,1069.06,5345.3,Dinheiro
+4,2025-03-13,4,eletrônicos,Mouse,João,6881,40.0,f,6,273.48,1640.88,Pix
+18,2025-06-21,4,Alimentos,Macarrão,João,5061,,M,8,2251.04,18008.32,Dinheiro
+39,2025-03-20,2, alimentos ,Feijão, Ana,6378,35.0,M,4,78.69,314.76,Dinheiro
+9,2025-02-28,1, alimentos ,Arroz,Maria,6155,31.0, m,6,1014.89,6089.34,Boleto
+81,2025-05-09,1,vestuário,Jaqueta, Ana,6280,56.0,f,8,219.5,-1756.0,Pix
+7,2025-06-12,2, alimentos ,Macarrão,Fernanda,5374,62.0,M,3,938.05,2814.15,
+67,2025-04-01,5, alimentos ,Macarrão,Fernanda,5526,53.0,M,6,713.55,4281.3,
+37,2025-02-09,1,eletrônicos,Mouse,Maria,6442,68.0, m,3,2205.91,6617.73,Cartão
+90,2025-03-04,5,Vestuário,Calça,Carlos,3236,22.0,f,7,492.71,3448.97,Boleto
+57,2025-02-02,1,vestuário,Camisa,João,8022,26.0, m,7,1487.89,10415.23,Cartão
+96,2025-06-22,4, alimentos ,Café,Lucas,9864,20.0,M,6,1574.46,9446.76,Cartão
+55,2025-01-02,4,ELETRÔNICOS,Teclado,Carlos,9947,69.0,F,7,2136.55,14955.85,Boleto
+51,2025-05-02,3,Vestuário,Tênis,Lucas,9540,49.0,F,4,2102.86,8411.44,Dinheiro
+70,2025-05-21,3,ELETRÔNICOS,Teclado,Maria,2976,64.0,F,8,691.87,5534.96,Dinheiro
+47,2025-03-02,2,ELETRONICOS,Macarrão,João,1757,33.0, m,4,2020.28,8081.12,
+71,2025-01-31,4,Alimentos,Feijão,Pedro ,9595,56.0,f,4,556.63,2226.52,
+62,2025-01-07,2,ELETRÔNICOS,TV,João,4978,24.0,f,7,1003.7,7025.9,
+100,2025-05-30,4,eletrônicos,Mouse,Pedro ,1153,69.0, m,8,1602.0,12816.0,Dinheiro
+82,2025-01-24,3,eletrônicos,TV,Carlos,1659,66.0,F,1,2498.94,2498.94,Boleto
+42,2025-02-18,5,ELETRÔNICOS, Notebook ,Fernanda,4228,41.0, m,7,24.19,169.33,Pix
+59,2025-01-21,3,Vestuário,Camisa,Maria,2124,67.0,M,1,2499.77,2499.77,Pix
+49,2025-01-28,5, alimentos ,Café, Ana,1822,53.0,F,4,456.2,1824.8,Pix
+89,2025-01-31,3,Alimentos,Feijão,Carlos,5479,44.0, m,8,2332.98,18663.84,Boleto
+58,2025-01-13,3,ELETRÔNICOS,Monitor,Pedro ,7211,35.0, m,6,544.92,3269.52,Dinheiro
+76,2025-04-17,88,vestuário,Calça,Pedro ,8025,37.0,M,7,1137.28,7960.96,
+33,2025-02-22,1,Alimentos,Macarrão,João,7939,35.0,M,8,642.78,5142.24,Pix
+97,2025-06-11,4,Alimentos,Macarrão,João,2646,46.0,F,4,1871.98,7487.92,Dinheiro
+60,2025-03-05,4,eletrônicos,Notebook,Fernanda,2874,54.0,F,3,611.59,1834.77,Boleto
+64,2025-04-18,3, alimentos ,Café,Fernanda,8532,63.0,F,2,1095.14,2190.28,Boleto
+95,2025-04-15,3, alimentos ,Feijão,Pedro ,7512,59.0,M,2,1184.34,2368.68,Dinheiro
+38,2025-03-10,4,eletrônicos,Notebook,Maria,4269,70.0, m,7,2182.97,15280.79,Dinheiro
+30,2025-01-03,5,Vestuário,Camisa,Pedro ,3170,40.0,M,2,1353.33,2706.66,Cartão
+2,2025-04-19,5,Eletrônicos,Notebook,Carlos,1434,53.0,F,2,562.22,1124.44,
+53,2025-04-09,4,Alimentos,,Pedro ,9890,47.0, m,4,179.29,717.16,Pix
+22,2025-04-14,2,Alimentos,Macarrão,Carlos,8350,26.0, m,2,636.67,1273.34,Cartão
+3,2025-04-18,1,eletrônicos,Monitor,Lucas,3615,62.0, m,5,2027.39,10136.95,Dinheiro
+24,2025-03-02,4,eletrônicos,Monitor,João,3697,42.0,M,8,1213.77,9710.16,Boleto
+88,2025-03-03,5,Alimentos,Feijão, Ana,2527,32.0,M,5,1386.08,6930.4,Boleto
+94,2025-01-10,4,eletrônicos,TV,João,9617,47.0,M,6,2176.86,13061.16,Cartão
+75,2025-05-06,5,Eletrônicos,TV,Pedro ,2395,33.0,M,1,396.28,396.28,
+87,2025-02-22,4,ELETRÔNICOS,TV,Fernanda,8941,25.0,M,3,2320.63,6961.89,
+83,2025-05-13,5,Alimentos,Café, Ana,9056,23.0, m,5,470.09,2350.45,Dinheiro
+21,2025-02-30,4,Eletrônicos,Notebook, Ana,1887,61.0,M,7,898.66,6290.62,Pix
+61,31/15/2025,1,ELETRÔNICOS,Teclado,Lucas,3683,37.0,M,3,1522.61,4567.83,
+72,2025-02-19,1,ELETRÔNICOS,Mouse,Fernanda,9751,26.0,f,6,465.02,2790.12,Pix
+15,2025-05-19,1, alimentos ,Arroz,Pedro ,6038,33.0,M,6,1231.74,7390.44,Cartão
+93,2025-04-09,4,eletrônicos,Monitor,Fernanda,7246,42.0,F,1,809.08,809.08,Boleto
+52,2025-04-23,3,Eletrônicos,Teclado,Carlos,2320,26.0,F,4,693.85,2775.4,Cartão
